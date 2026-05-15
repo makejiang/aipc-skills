@@ -1,1 +1,1 @@
-# mavis-skills
+# AIPC skills
